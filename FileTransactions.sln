@@ -5,7 +5,13 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Masch.FileTransactions", "FileTransactions\Masch.FileTransactions.csproj", "{C1B3FA67-A549-4701-A034-E550CC9A1AF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masch.FileTransactions.Tests", "FileTransactions.Tests\Masch.FileTransactions.Tests.csproj", "{200ADDA6-00FD-404D-AF5D-7DD68F518EEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Masch.FileTransactions.Tests", "FileTransactions.Tests\Masch.FileTransactions.Tests.csproj", "{200ADDA6-00FD-404D-AF5D-7DD68F518EEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CF563C46-F7A9-4C72-92ED-6EEC5B04F541}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
